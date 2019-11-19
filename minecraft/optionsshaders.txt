@@ -1,0 +1,5 @@
+#Wed Apr 04 03:53:29 CEST 2018
+dtweak=false
+handDepthMul=0.125
+cloudShadow=true
+shaderPack=(internal)

@@ -1,0 +1,1781 @@
+
+
+
+:::: SUN
+
+ - sun
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: MOON
+
+ - moon
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: CHICKEN
+
+ - chicken
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: CREEPER
+
+ - creeper
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: SHEEP_FUR
+
+ - sheepFur
+	by RusticRedemption
+	"by%20J_m1e"
+
+
+
+
+:::: SKELETON
+
+ - skeleton
+	by RusticRedemption
+	"by%20Apachey"
+
+
+
+
+:::: SLIME
+
+ - slime
+	by RusticRedemption
+	"by%20Serrinatta"
+
+
+
+
+:::: WOLF
+
+ - wolf
+	by RusticRedemption
+	"by%20DJ%20Persnickety"
+
+
+
+
+:::: WOLF_ANGRY
+
+ - wolfAngry
+	by RusticRedemption
+	"by%20DJ%20Persnickety"
+
+
+
+
+:::: WOLF_TAME
+
+ - wolfTamed
+	by RusticRedemption
+	"by%20DJ%20Persnickety"
+
+
+
+
+:::: ZOMBIE
+
+ - zombie
+	by RusticRedemption
+	"by%20VenNer"
+
+
+
+
+:::: PACK
+
+ - packPortrait
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: PARTICLES
+
+ - smoke
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - arrowTrail
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - enchantingRunes
+	by RusticRedemption
+	"'by%20Zedarean'"
+
+ - flame
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - heart
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - hook
+	by RusticRedemption
+	"'by%20godoffreys'"
+
+ - liquidDrip
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - musicNote
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - rainDroplets
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: TERRAIN
+
+ - cobblestone
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - stone
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - dirt
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - sideDirt
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - stoneBrick
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - enderPortal
+	by RusticRedemption
+	"'by%20Serrinatta'"
+
+ - pumpkin
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - oreDiamond
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - sandstone
+	by RusticRedemption
+	"'by Ovocean'"
+
+ - piston
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - brownMushroomTop
+	by RusticRedemption
+	"'by%20gl0u0m'"
+
+ - cyanWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - blackWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - repeater
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - foliage
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - stoneSlab
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - ironBars
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - obsidian
+	by RusticRedemption
+	"'Purple%20attack%20by%20Ovocean'"
+
+ - jungleFoliage
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - lever
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - wood
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - noteblock
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - bed
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - shrub
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - pinkWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - redstoneWire
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - brick
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - grayWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - craftingTable
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - birchWood
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - dragonEgg
+	by RusticRedemption
+	"'by%20ambrigramman'"
+
+ - fire
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - ironDoor
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - wheat
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - sandstoneGlyphs
+	by RusticRedemption
+	"'by Ovocean'"
+
+ - lightBlueWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - netherrack
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - rose
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - pineWood
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - grass
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - bookshelf
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - birchSapling
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - sand
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - redstoneLamp
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - jungleWood
+	by RusticRedemption
+	"'by%20Pythros'"
+
+ - enderStone
+	by RusticRedemption
+	"'by%20im_a_creepah'"
+
+ - sponge
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - jukebox
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - web
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - lightGrayWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - netherBrick
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - pineSapling
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - redMushroomTop
+	by RusticRedemption
+	"'by%20gl0u0m'"
+
+ - blueWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - crackedStoneBrick
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - pineWoodPlank
+	by RusticRedemption
+	"'by clawz'"
+
+ - trapDoor
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - greenWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - water
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - lightGreenWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - mushroomStem
+	by RusticRedemption
+	"'by%20azon_pl'"
+
+ - pineFoliage
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - sapling
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - rail
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - townBorder
+	by RusticRedemption
+	"'Vanilla'"
+
+ - clay
+	by RusticRedemption
+	"'by Ovocean'"
+
+ - jungleWoodPlank
+	by RusticRedemption
+	"'by%20creeperfighter3'"
+
+ - dispenser
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - redWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - gravel
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - soulSand
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - magentaWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - mossyStoneBrick
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - yellowWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - oreRedstone
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - sugarcane
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - sideGrass
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - purpleWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - shroomyGrass
+	by RusticRedemption
+	"'by%20azon_pl'"
+
+ - cactus
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - snow
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - smallBrownMushroom
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - glowstone
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - vines
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - melon
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - diamondBlock
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - mossyCobblestone
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - wool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - redstoneTorch
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - oreLapis
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - tallGrass
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - bedrock
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - cauldron
+	by RusticRedemption
+	"'by%20gl0u0m'"
+
+ - tnt
+	by RusticRedemption
+	"'by%20Serrinatta'"
+
+ - dandelion
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - birchWoodPlank
+	by RusticRedemption
+	"'by%20creeperfighter3'"
+
+ - glassPane
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - torch
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - enchantingTable
+	by RusticRedemption
+	"'by%20ambrigramman'"
+
+ - melonStalks
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - goldBlock
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - mobSpawner
+	by RusticRedemption
+	"'by%20gl0u0m'"
+
+ - orangeWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - woodTop
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - sideSnow
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - oreIron
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - lapisBlock
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - lillyPad
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - chest
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - netherWart
+	by RusticRedemption
+	"'by%20creeperfighter'"
+
+ - deadShrub
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - smallRedMushroom
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - oreCoal
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - glass
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - cake
+	by RusticRedemption
+	"'by%20Flameball96'"
+
+ - jungleSapling
+	by RusticRedemption
+	"'by%20VenNer'"
+
+ - ironBlock
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - ladder
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - shroomySideDirt
+	by RusticRedemption
+	"'by%20azon_pl'"
+
+ - mushroomGills
+	by RusticRedemption
+	"'by%20VenNer'"
+
+ - woodPlank
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - oreGold
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - ornateStoneBrick
+	by RusticRedemption
+	"'by%20deadlypixel69'"
+
+ - poweredRail
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - brownWool
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - breakAnimation
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - DetectorRail
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - brewingStand
+	by RusticRedemption
+	"'base by Serrinatta'"
+
+ - furnace
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - tilledSoil
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - ice
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - lava
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - woodDoor
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: DIAL
+
+ - clockDial
+	by RusticRedemption
+	"'by%20Pythros'"
+
+
+
+
+:::: FOLIAGECOLOR
+
+ - foliageGradient
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: GRASSCOLOR
+
+ - grassGradient
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: SHADOW
+
+ - itemShadow
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: WATER
+
+ - underwaterOverlay
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: ARROWS
+
+ - arrows
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: BOAT
+
+ - boat
+	by RusticRedemption
+	"by%20gl0u0m"
+
+
+
+
+:::: CART
+
+ - minecart
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: SIGN
+
+ - sign
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: BACKGROUND
+
+ - mainMenuBackground
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: CONTAINER
+
+ - chestCanopy
+	by RusticRedemption
+	"'by%20Loard%20Vader'"
+
+
+
+
+:::: CRAFTING
+
+ - craftingCanopy
+	by RusticRedemption
+	"'by%20Loard%20Vader'"
+
+
+
+
+:::: FURNACE
+
+ - furnaceCanopy
+	by RusticRedemption
+	"'by%20LoardVader'"
+
+
+
+
+:::: GUI
+
+ - equipBar
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - equipCursor
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - languagesButtons
+	by RusticRedemption
+	"'by%20Katan2k'"
+
+ - menuButtons
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: ICONS
+
+ - targetingReticle
+	by RusticRedemption
+	"'Simple%20by%20Flameball96'"
+
+
+
+
+:::: INVENTORY
+
+ - inventoryCanopy
+	by RusticRedemption
+	"'by%20Loard%20Vader'"
+
+
+
+
+:::: ITEMS
+
+ - minecartChestIcon
+	by RusticRedemption
+	"'by Pythros'"
+
+ - glassBottle
+	by RusticRedemption
+	"'by%20TheMagmaCube'"
+
+ - diamondSword
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - spiderEye
+	by RusticRedemption
+	"'by%20Demonette'"
+
+ - repeaterIcon
+	by RusticRedemption
+	"'by%20Pythros'"
+
+ - chainArmorIcon
+	by RusticRedemption
+	"'Vanilla'"
+
+ - ironSword
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - shears
+	by RusticRedemption
+	"'by Ovocean'"
+
+ - goldSword
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - beef
+	by RusticRedemption
+	"'by%20demonette%20'"
+
+ - sugarcaneIcon
+	by RusticRedemption
+	"'by Pinky4341'"
+
+ - minecartFurnaceIcon
+	by RusticRedemption
+	"'by Pythros'"
+
+ - ghastTear
+	by RusticRedemption
+	"'by%20pink4341'"
+
+ - wheatIcon
+	by RusticRedemption
+	"'by Ovocean'"
+
+ - splashPotion
+	by RusticRedemption
+	"'by%20astro1305'"
+
+ - stoneSword
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - clayBall
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - ironAxe
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - eyeOfEnder
+	by RusticRedemption
+	"'by%20Serrinatta'"
+
+ - cookie
+	by RusticRedemption
+	"'by Serrinatta'"
+
+ - records
+	by RusticRedemption
+	"'by%20Ticlon%20%7C%20creeperfighter3'"
+
+ - minecartIcon
+	by RusticRedemption
+	"'by Pythros'"
+
+ - fishingPoleNoWire
+	by RusticRedemption
+	"'by%20Pinky4341'"
+
+ - goldAxe
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - sugar
+	by RusticRedemption
+	"'by Ovocean'"
+
+ - string
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - stoneAxe
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - ingot
+	by RusticRedemption
+	"'by%20JakeVon%20and%20R@d'"
+
+ - diamondArmorIcon
+	by RusticRedemption
+	"'Vanilla'"
+
+ - enderPearl
+	by RusticRedemption
+	"'by%20TA_Crusher'"
+
+ - leather
+	by RusticRedemption
+	"'by%20Rhonde'"
+
+ - netherWartSeeds
+	by RusticRedemption
+	"'by%20pinky4341'"
+
+ - apple
+	by RusticRedemption
+	"'by%20Apachey'"
+
+ - fish
+	by RusticRedemption
+	"'by Azon_PL, Th3m1ner and Ovocean'"
+
+ - fishingPole
+	by RusticRedemption
+	"'by%20Pinky4341'"
+
+ - feather
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - slimeBall
+	by RusticRedemption
+	"'by jansteffen'"
+
+ - writtenBook
+	by RusticRedemption
+	"'by%20Apachey'"
+
+ - stick
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - glowstoneDust
+	by RusticRedemption
+	"'by%20gl0u0m'"
+
+ - compass
+	by RusticRedemption
+	"'by%20Serrinatta'"
+
+ - spawningEgg
+	by RusticRedemption
+	"'by%20deadlypixel69'"
+
+ - melonSlice
+	by RusticRedemption
+	"'by%20TheMagmaCube'"
+
+ - armorOverlay
+	by RusticRedemption
+	"'Vanilla'"
+
+ - flint
+	by RusticRedemption
+	"'by Ovocean'"
+
+ - egg
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - diamondGem
+	by RusticRedemption
+	"'by%20TheMagmaCube'"
+
+ - seeds
+	by RusticRedemption
+	"'by Ovocean'"
+
+ - signIcon
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - goldArmorIcon
+	by RusticRedemption
+	"'Vanilla'"
+
+ - spawnerEggSpots
+	by RusticRedemption
+	"'by%20deadlypixel69'"
+
+ - artIcon
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - coal
+	by RusticRedemption
+	"'by%20gubba1995'"
+
+ - fermentedSpiderEye
+	by RusticRedemption
+	"'by%20Demonette'"
+
+ - ironDoorIcon
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - bedIcon
+	by RusticRedemption
+	"'by Pythros'"
+
+ - dye
+	by RusticRedemption
+	"'by%20creeperfighter3%2C%20Pinky4341%2C%20and%20Ser'"
+
+ - woodSword
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - flint_N_Steel
+	by RusticRedemption
+	"'by Ovocean'"
+
+ - Bottle_O_Enchanting
+	by RusticRedemption
+	"'by%20TheMagmaCube'"
+
+ - diamondAxe
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - saddleIcon
+	by RusticRedemption
+	"'by%20Apachey'"
+
+ - shovels
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - ironArmorIcon
+	by RusticRedemption
+	"'Vanilla'"
+
+ - blazePowder
+	by RusticRedemption
+	"'by%20im_a_creepah'"
+
+ - woodDoorIcon
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - clock
+	by RusticRedemption
+	"'by%20Serrinatta'"
+
+ - snowBall
+	by RusticRedemption
+	"'by%20Pythros'"
+
+ - pork
+	by RusticRedemption
+	"'by%20Pinky4341'"
+
+ - boatIcon
+	by RusticRedemption
+	"'by Pythros'"
+
+ - magmaCream
+	by RusticRedemption
+	"'by TA_Crusher'"
+
+ - blazeStick
+	by RusticRedemption
+	"'by%20pinky4341'"
+
+ - chickenMeat
+	by RusticRedemption
+	"'by%20Pinky4341'"
+
+ - redstoneDust
+	by RusticRedemption
+	"'by Pinky4341'"
+
+ - paper
+	by RusticRedemption
+	"'by%20deadlypixel69'"
+
+ - rottenFlesh
+	by RusticRedemption
+	"'by%20Pinky4341'"
+
+ - leatherArmorIcon
+	by RusticRedemption
+	"'Vanilla'"
+
+ - fireCharge
+	by RusticRedemption
+	"'by%20creeperfighter3'"
+
+ - bookAndQuill
+	by RusticRedemption
+	"'by%20Apachey'"
+
+ - bowAnimation
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - gunpowder
+	by RusticRedemption
+	"'by%20Suppee'"
+
+ - book
+	by RusticRedemption
+	"'by Apachey'"
+
+ - cakeIcon
+	by RusticRedemption
+	"'by%20Flameball96'"
+
+ - arrowIcon
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - cauldronIcon
+	by RusticRedemption
+	"'by%20Pythros'"
+
+ - pumpkinSeeds
+	by RusticRedemption
+	"'by Serrinatta'"
+
+ - potionLiquid
+	by RusticRedemption
+	"'by%20TheMagmaCube'"
+
+ - mapIcon
+	by RusticRedemption
+	"'by%20deadlypixel69'"
+
+ - brewingStandIcon
+	by RusticRedemption
+	"'by Pythros?'"
+
+ - bow
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - hoes
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - bread
+	by RusticRedemption
+	"'by Ovocean'"
+
+ - melonSeeds
+	by RusticRedemption
+	"'by Serrinatta'"
+
+ - glisteringMelon
+	by RusticRedemption
+	"'by%20TheMagmaCube'"
+
+ - quiver
+	by RusticRedemption
+	"'Vanilla'"
+
+ - buckets
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - pickaxes
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - bone
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - goldNugget
+	by RusticRedemption
+	"'Pinky4341'"
+
+ - woodAxe
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - bowl
+	by RusticRedemption
+	"'Chunks by TheAdventureTime'"
+
+
+
+
+:::: SLOT
+
+ - slot
+	by RusticRedemption
+	"'by%20TheMagmaCube'"
+
+
+
+
+:::: TRAP
+
+ - dispenserCanopy
+	by RusticRedemption
+	"'by%20LoardVader'"
+
+
+
+
+:::: DEFAULT
+
+ - font
+	by RusticRedemption
+	"by%20Misa%2C%20XSSheep%2C%20Ovocean"
+
+
+
+
+:::: RAIN
+
+ - rainFall
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: SNOW
+
+ - snowFall
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: KZ
+
+ - art_4x3_2
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_2x1_4
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_2x2_2
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_4x2
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_1x1_3
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_2x2_5
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_2x1_2
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_1x1_2
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - artBacking
+	by RusticRedemption
+	"'by%20gl0u0m'"
+
+ - art_2x2_3
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_1x1_1
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_1x2_2
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_2x1_5
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_1x2_1
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_2x2_1
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_4x4_2
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_1x1_5
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_1x1_6
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_2x2_4
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_4x4_3
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_2x1_3
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_1x1_7
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_2x1_1
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_4x4_1
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_1x1_4
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+ - art_4x3_1
+	by RusticRedemption
+	"'Vanilla%20HD'"
+
+
+
+
+:::: BG
+
+ - achievementBG
+	by RusticRedemption
+	"by%20TheMagmaCube"
+
+
+
+
+:::: CHAIN_1
+
+ - chainBoots
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+ - chainChestplate
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+ - chainHelmet
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+
+
+
+:::: CHAIN_2
+
+ - chainLeggings
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+
+
+
+:::: CLOTH_1
+
+ - leatherHelmet
+	by RusticRedemption
+	"'by%20Pinky5451'"
+
+ - leatherChestplate
+	by RusticRedemption
+	"'by%20Pinky5451'"
+
+ - leatherBoots
+	by RusticRedemption
+	"'by%20Pinky5451'"
+
+
+
+
+:::: CLOTH_2
+
+ - leatherLeggings
+	by RusticRedemption
+	"'by%20Pinky5451'"
+
+
+
+
+:::: DIAMOND_1
+
+ - diamondChestplate
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+ - diamondHelmet
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+ - diamondBoots
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+
+
+
+:::: DIAMOND_2
+
+ - diamondLeggings
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+
+
+
+:::: GOLD_1
+
+ - goldBoots
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+ - goldChestplate
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+ - goldHelmet
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+
+
+
+:::: GOLD_2
+
+ - goldLeggings
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+
+
+
+:::: IRON_2
+
+ - ironLeggings
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+
+
+
+:::: IRON_1
+
+ - ironHelmet
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+ - ironBoots
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+ - ironChestplate
+	by RusticRedemption
+	"'by%20Th3M1ner'"
+
+
+
+
+:::: MAPBG
+
+ - mapCanvas
+	by RusticRedemption
+	"by%20cooltheo20"
+
+
+
+
+:::: CUSTOM_WATER_STILL
+
+ - waterStill
+	by RusticRedemption
+	"'by%20Johnsmith'"
+
+
+
+
+:::: CUSTOM_LAVA_STILL
+
+ - lavaStill
+	by RusticRedemption
+	"'by%20Johnsmith'"
+
+
+
+
+:::: CUSTOM_LAVA_FLOWING
+
+ - lavaFlowing
+	by RusticRedemption
+	"'by%20Jonhsmith'"
+
+
+
+
+:::: CUSTOM_WATER_FLOWING
+
+ - waterFlowing
+	by RusticRedemption
+	"'by%20Johnsmith'"
+
+
+
+
+:::: PANORAMA5
+
+ - panorama5
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: PANORAMA4
+
+ - panorama4
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: CTM
+
+ - CTM_Glass
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - CTM_Bookshelf
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - CTM_Chest
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+ - CTM_Sandstone
+	by RusticRedemption
+	"'by Ovocean'"
+
+
+
+
+:::: PANORAMA3
+
+ - panorama3
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: PANORAMA2
+
+ - panorama2
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: PANORAMA1
+
+ - panorama1
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: PANORAMA0
+
+ - panorama0
+	by RusticRedemption
+	"'by%20Ovocean'"
+
+
+
+
+:::: EXPLOSION
+
+ - explosion
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: XPORB
+
+ - XP_Orbs
+	by RusticRedemption
+	"by%20Flameball96"
+
+
+
+
+:::: LARGECHEST
+
+ - largeChestWrapper
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: CHEST
+
+ - chestWrapper
+	by RusticRedemption
+	"by%20Ovocean"
+
+
+
+
+:::: ALLITEMS
+
+ - allItemsCanopy
+	by RusticRedemption
+	"'by%20Pinky4341'"
+
+
+
+
+:::: FIRE
+
+ - blaze
+	by RusticRedemption
+	"by%20gl0u0m"
+
+
+
+
+:::: SNOWMAN
+
+ - snowman
+	by RusticRedemption
+	"by%20Gl0u0m"
+
+
+
+
+:::: ALCHEMY
+
+ - alchemyCanopy
+	by RusticRedemption
+	"'by%20Loard%20Vader'"
+
+
+
+
+:::: ENCHANT
+
+ - enchantingCanopy
+	by RusticRedemption
+	"'by%20LoardVader'"
+
+
+
+
+:::: BOOK
+
+ - enchantingBook
+	by RusticRedemption
+	"'Book%20by%20im_a_creepah%20with%20gl0u0m%27s%20pag'"
+
+
+
+
+:::: MOON_PHASES
+
+ - moonPhases
+	by RusticRedemption
+	"by%20Ambigramman"
+
+
+
+
+:::: ICONS-2
+
+ - Icons
+	by RusticRedemption
+	"by%20Flameball95%20and%20TheAdvetureTime"
+
+
+
+
+:::: CRYSTAL
+
+ - crystal
+	by RusticRedemption
+	"Thinner%20by%20VenNer"
+

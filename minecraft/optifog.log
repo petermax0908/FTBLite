@@ -1,0 +1,103 @@
+
+OptiFine_1.4.6_HD_U_D5
+Tue Nov 19 15:17:08 CET 2019
+OS: Linux (amd64) version 5.0.0-36-generic
+Java: 1.8.0_222, Private Build
+VM: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+LWJGL: 2.9.1
+OpenGL: Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2)  version 3.0 Mesa 19.0.8, Intel Open Source Technology Center
+OpenGL Version: 3.0
+(Reflector) Class not present: LightCache
+(Reflector) Class not present: BlockCoord
+TextureFX registered: ic2.core.TextureLiquidFX@6c2bf4b1, texId: 36, index: 202
+TextureFX registered: bdj@2c514316, texId: 4, index: 237
+TextureFX registered: bdm@185bd4f5, texId: 4, index: 205
+TextureFX registered: bdk@17196e3f, texId: 4, index: 14
+TextureFX registered: bdf@2972b4f3, texId: 46, index: 54
+TextureFX registered: bde@b13efa9, texId: 46, index: 70
+TextureFX registered: bdl@50d421f5, texId: 4, index: 206
+TextureFX registered: bdi@5f132d00, texId: 4, index: 238
+TextureFX registered: bdh@3601ed71, texId: 4, index: 31
+TextureFX registered: bdh@1dff1c29, texId: 4, index: 47
+TextureFX removed: bdj@2c514316, texId: 4, index: 237
+TextureFX registered: TextureHDLavaFX@3bc8d702, texId: 4, index: 237
+TextureFX removed: bdm@185bd4f5, texId: 4, index: 205
+TextureFX registered: TextureHDWaterFX@22487ad0, texId: 4, index: 205
+TextureFX removed: bdk@17196e3f, texId: 4, index: 14
+TextureFX registered: TextureHDPortalFX@46527457, texId: 4, index: 14
+TextureFX removed: bdl@50d421f5, texId: 4, index: 206
+TextureFX registered: TextureHDWaterFlowFX@564d34fa, texId: 4, index: 206
+TextureFX removed: bdi@5f132d00, texId: 4, index: 238
+TextureFX registered: TextureHDLavaFlowFX@2b4089f6, texId: 4, index: 238
+TextureFX removed: bdh@3601ed71, texId: 4, index: 31
+TextureFX registered: TextureHDFlamesFX@1f1acd68, texId: 4, index: 31
+TextureFX removed: bdh@1dff1c29, texId: 4, index: 47
+TextureFX registered: TextureHDFlamesFX@20cfc095, texId: 4, index: 47
+TextureFX removed: bdf@2972b4f3, texId: 46, index: 54
+TextureFX registered: TextureHDCompassFX@5d800575, texId: 46, index: 54
+TextureFX removed: bde@b13efa9, texId: 46, index: 70
+TextureFX registered: TextureHDWatchFX@7a6faa3f, texId: 46, index: 70
+TextureFX registered: TextureHDCustomFX@35b719c2, texId: 4, index: 61
+TextureFX registered: TextureHDCustomFX@612b64e5, texId: 4, index: 103
+Loading custom colors: /misc/grasscolor.png
+Loading custom colors: /misc/foliagecolor.png
+Loading custom colors: /misc/swampgrasscolor.png
+Loading custom colors: /misc/swampfoliagecolor.png
+Loading custom colors: /misc/skycolor0.png
+Loading custom colors: /misc/fogcolor0.png
+Loading custom colors: /misc/underwatercolor.png
+Loading /color.properties
+Custom color: drop.water = 93b9f1
+Custom color: fog.nether = 4d0b0b
+Custom color: fog.end = 150018
+Custom color: sky.end = 000000
+Block palette: palette.block./misc/stonecolor.png = 1 4 13 14 15 16 21 23 24 29 33 43 44 48 56 61 62 67 70 73 74 82 93 94 97 98 109 128 129
+Loading custom colors: /misc/stonecolor.png
+Block palette: palette.block./misc/sandcolor.png = 12
+Loading custom colors: /misc/sandcolor.png
+TextureFX registered: buildcraft.energy.render.TextureOilFX@53496fd7, texId: 99, index: 205
+TextureFX registered: buildcraft.energy.render.TextureFuelFX@35c6260b, texId: 102, index: 0
+TextureFX registered: buildcraft.energy.render.TextureOilFlowFX@2d34dc8a, texId: 99, index: 206
+TextureFX registered: com.pahimar.ee3.client.renderer.texturefx.TextureRedWaterFX@3ed6b700, texId: 322, index: 205
+TextureFX registered: com.pahimar.ee3.client.renderer.texturefx.TextureRedWaterFlowFX@326262f1, texId: 322, index: 206
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@76e6d197, texId: 111, index: 0
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@3f39fd92, texId: 111, index: 1
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@58a803b9, texId: 111, index: 2
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@1b3412d7, texId: 111, index: 3
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@5b9e124f, texId: 111, index: 4
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@2bbbb1c3, texId: 111, index: 5
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@3316cac6, texId: 111, index: 6
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@80fc4d9, texId: 111, index: 7
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@2328b3fd, texId: 111, index: 8
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@55eb3bf2, texId: 111, index: 9
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@502e8b73, texId: 111, index: 10
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@26f1b4a3, texId: 111, index: 11
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@40a05cdb, texId: 111, index: 12
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@4c98db96, texId: 111, index: 13
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@6849a465, texId: 111, index: 14
+TextureFX registered: thermalexpansion.core.render.TextureRedstoneFX@43b65163, texId: 111, index: 15
+TextureFX registered: thermalexpansion.core.render.TextureEnderFX@1b8f1caa, texId: 111, index: 64
+TextureFX registered: forestry.core.render.TextureBiomassFX@69041cde, texId: 797, index: 13
+TextureFX registered: forestry.core.render.TextureBiofuelFX@4ffcf410, texId: 797, index: 12
+TextureFX registered: forestry.core.render.TextureMilkFX@3c88143d, texId: 797, index: 15
+TextureFX registered: forestry.core.render.TextureHoneyFX@1f5a72a8, texId: 797, index: 76
+TextureFX registered: forestry.core.render.TextureSeedOilFX@3c5a3c71, texId: 797, index: 74
+TextureFX registered: forestry.core.render.TextureJuiceFX@749b971c, texId: 797, index: 75
+TextureFX registered: forestry.core.render.TextureMeadFX@256903ae, texId: 797, index: 77
+TextureFX registered: forestry.core.render.TextureGlassFX@6dc44975, texId: 797, index: 49
+TextureFX registered: forestry.core.render.TextureIceFX@5021ab89, texId: 797, index: 73
+TextureFX registered: forestry.core.render.TextureHabitatLocatorFX@775952b1, texId: 159, index: 105
+TextureFX registered: dan200.computer.client.TextureComputerFX@2ddba9e4, texId: 65, index: 25
+TextureFX registered: thaumcraft.client.fx.FXAnimatedTexture@31342574, texId: 189, index: 67
+TextureFX registered: thaumcraft.client.fx.FXAnimatedTexture@531e365f, texId: 186, index: 15
+TextureFX registered: railcraft.client.textureFX.TextureCreosoteOilFX@463984d6, texId: 809, index: 0
+TextureFX registered: thaumcraft.client.fx.FXAnimatedLava@365d817c, texId: 186, index: 18
+TextureFX registered: thaumcraft.client.fx.FXAnimatedPotion@26d21d46, texId: 189, index: 177
+TextureFX registered: thaumcraft.client.fx.FXAnimatedTexture@54c576b0, texId: 189, index: 210
+TextureFX registered: com.eloraam.redpower.core.TextureAnimFX@62cb6943, texId: 331, index: 239
+TextureFX registered: thaumcraft.client.fx.FXAnimatedInfusedOre@5a86214, texId: 186, index: 22
+TextureFX registered: portalgun.client.render.TextureAnimation@711a120, texId: 141, index: 5
+TextureFX registered: twilightforest.client.TextureTFMagicLeavesFX@41efcb14, texId: 291, index: 115
+TextureFX registered: dan200.computer.client.TextureComputerFX@1f9e918b, texId: 65, index: 20
+TextureFX registered: railcraft.client.textureFX.TextureSteamFX@5cf15915, texId: 809, index: 16
+TextureFX registered: com.eloraam.redpower.core.TextureAnimFX@1d3c9c, texId: 331, index: 255
